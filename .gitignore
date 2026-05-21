@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector Database
+chroma_db/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+temp/
+tmp/
+
+# PDF cache / uploads (optional)
+data/*.pdf
+
+# Notebook exports
+*.html
+
+# Python testing cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+*.pdf
